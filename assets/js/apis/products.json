@@ -1,0 +1,89 @@
+{
+    "products": [
+        {
+            "id":1,
+            "title":"Galaxy A13 Blue 128GB 4GB 4G LTE- Egypt Version",
+            "description":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sapiente culpa facilis ipsa eos? Optio fugit modi voluptates,",
+            "image":"https://f.nooncdn.com/p/v1667383428/N53363071A_1.jpg?format=avif&width=240",
+            "price":"5199.00",
+            "category":"electronics",
+            "hot":true
+        },
+        {
+            "id":2,
+            "title":"DualSense Wireless PS5 Controller White",
+            "description":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sapiente culpa facilis ipsa eos? Optio fugit modi voluptates,",
+            "image":"https://f.nooncdn.com/p/v1667497469/N40633049A_1.jpg?format=avif&width=240",
+            "price":"2689.00",
+            "category":"electronics"
+        },
+        {
+            "id":3,
+            "title":"AirPods Pro With MagSafe Charging Case 2021 White",
+            "description":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sapiente culpa facilis ipsa eos? Optio fugit modi voluptates,",
+            "image":"https://f.nooncdn.com/p/v1667497489/N47626990A_1.jpg?format=avif&width=240",
+            "price":"7445.00",
+            "category":"electronics"
+        },
+        {
+            "id":4,
+            "title":"PlayStation 5 Console (Disc Version) With Controller",
+            "description":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sapiente culpa facilis ipsa eos? Optio fugit modi voluptates,",
+            "image":"https://f.nooncdn.com/p/v1669724765/N40633047A_1.jpg?format=avif&width=240",
+            "price":"26899.00",
+            "category":"electronics"
+        },
+        {
+            "id":5,
+            "title":"AE Polo Shirt",
+            "description":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sapiente culpa facilis ipsa eos? Optio fugit modi voluptates,",
+            "image":"https://f.nooncdn.com/p/pzsku/ZB624A7D40BE705D77EC3Z/45/_/1674139162/ea2e5f34-e317-4dd2-9605-cbc2e919cb63.jpg?format=avif&width=240",
+            "price":"345.00",
+            "category":"mens"
+        },
+        {
+            "id":6,
+            "title":"American Eagle Polo Shirt",
+            "description":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sapiente culpa facilis ipsa eos? Optio fugit modi voluptates,",
+            "image":"https://f.nooncdn.com/p/pzsku/ZB624A7D40BE705D77EC3Z/45/_/1674139162/ea2e5f34-e317-4dd2-9605-cbc2e919cb63.jpg?format=avif&width=240",
+            "price":"345.00",
+            "category":"mens",
+            "hot":true
+        },
+        {
+            "id":7,
+            "title":"Woman Relax Fit Faux Leather Raincoat",
+            "description":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sapiente culpa facilis ipsa eos? Optio fugit modi voluptates,",
+            "image":"https://f.nooncdn.com/p/pzsku/Z8EFDBF7491FEECF6622CZ/45/_/1669832075/e0bbf988-d36f-40e0-bac7-4edaefa975a5.jpg?format=avif&width=240",
+            "price":"599.00",
+            "category":"womans"
+        },
+        {
+            "id":8,
+            "title":"Multi Colour With Pants Pajama Set",
+            "description":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sapiente culpa facilis ipsa eos? Optio fugit modi voluptates,",
+            "image":"https://f.nooncdn.com/p/pzsku/Z7BD61868A13D28A6621AZ/45/_/1677575004/f9ee8837-17c4-4b55-9d1a-e9ab6692817f.jpg?format=avif&width=240",
+            "price":"269.00",
+            "category":"womans",
+            "hot":true
+        },
+        {
+            "id":9,
+            "title":"Uno 1 Cup Coffee Maker 0.5 L 300 W CM31416A Black",
+            "description":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sapiente culpa facilis ipsa eos? Optio fugit modi voluptates,",
+            "image":"https://f.nooncdn.com/p/v1653841036/N31809093A_1.jpg?format=avif&width=240",
+            "price":"352.00",
+            "category":"home"
+        },
+        {
+            "id":10,
+            "title":"Air Fryer Aerofry With Multifunction Air Convection technology 4 L 1500 W AF300-B5 Black/Gold",
+            "description":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sapiente culpa facilis ipsa eos? Optio fugit modi voluptates,",
+            "image":"https://f.nooncdn.com/p/v1643404337/N52490758A_1.jpg?format=avif&width=240",
+            "price":"4899.00",
+            "category":"home",
+            "hot":true
+        }
+    ]
+
+}

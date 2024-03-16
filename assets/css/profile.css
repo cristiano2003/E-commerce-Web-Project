@@ -1,0 +1,22 @@
+
+
+.bg-custom{
+  background-color: #2e3134!important;
+}
+
+
+
+@media screen and (min-width:768px) {
+  .container-fluid {
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+    flex-grow: 1;
+    padding: 0;
+  }
+
+  #midC {
+    height: 100vh;
+    flex-grow: 1;
+  }
+}

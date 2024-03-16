@@ -1,0 +1,24 @@
+{
+    "categories": [
+        {
+            "id":1,
+            "title":"Mens Fashion",
+            "image":"https://f.nooncdn.com/mpcms/EN0003/assets/11c60cae-4f1c-468e-a9cd-a00c47a83dd8.png"
+        },
+        {
+            "id":2,
+            "title":"Woman Fashion",
+            "image":"https://f.nooncdn.com/mpcms/EN0003/assets/c818ebb0-43b5-4dff-8e3e-401e49c99247.png"
+        },
+        {
+            "id":3,
+            "title":"Beauty",
+            "image":"https://f.nooncdn.com/mpcms/EN0003/assets/e7d02c90-7eb8-4d32-bf36-89bb9a74280a.png"
+        },
+        {
+            "id":4,
+            "title":"Home Fashion",
+            "image":"https://f.nooncdn.com/mpcms/EN0003/assets/1faccff7-5869-4bce-88bf-e894107a51ab.png"
+        }
+    ]
+    }

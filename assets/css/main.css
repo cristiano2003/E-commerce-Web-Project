@@ -1,0 +1,64 @@
+/*  
+--------------------------------------------------------------
+*  Theme Name: Amazon Clone - Responsive Landing Template        *
+*  Author: Group 3 [Abdallah,Farag,AbdelHady,Adel]               *
+*  Version: 1.0.0                                                *
+*  Created: 2023                                                 *
+*  File Description: Main css file of the template               *
+--------------------------------------------------------------
+*/
+
+
+
+
+/***HELPERS AND BASICS***/
+
+body {
+    padding: 0;
+    margin: 0;
+  box-sizing: border-box;
+  }
+
+
+h1.font,
+h2.font,
+h3.font,
+h4.font,
+h5.font,
+h6.font,
+span.font,
+p.font {
+  font-weight: 600 !important;
+}
+
+a,
+a:hover,
+a:focus,
+button {
+  text-decoration: none !important;
+  outline: none !important;
+}
+
+.mobile-font-size{
+    font-size: 12px;
+}
+
+/***END HELPERS AND BASICS***/
+
+/*****Cart *****/ 
+
+
+#no-cart{
+  display: none;
+}
+
+#badge{
+  display: none;
+}
+
+
+
+
+
+
+  
